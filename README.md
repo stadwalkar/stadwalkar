@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Sahil
-### I'm a student passionate about AEC + software
+### I'm passionate about AEC + software
 
 Now:
-- 🌱 I’m currently studying Sustainable Design & Construction @ Stanford
+- 🌱 I’ve studying Sustainable Design & Construction @ Stanford
 - 💞️ I’m looking to collaborate on interdisciplinary projects
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/sahil-tadwalkar/)
 
